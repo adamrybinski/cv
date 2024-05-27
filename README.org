@@ -1,2 +1,42 @@
-# cv
-My CV
+* Adam Rybinski
+  Software Engineer
+
+  - Cell: +35679081417
+  - Email: adam@compose.land
+  - Linkedin: [[https://www.linkedin.com/in/arybinski][linkedin.com/in/arybinski]]
+  - Github: [[https://www.github.com/adamrrudolf][github.com/adamrrudolf]]
+
+* Experience
+
+** April 2023 – Present: Software Engineer at Betsson Group
+   Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders.
+   Leading the release of a Web3.js product, implementing games utilizing Web3.js payments and integration with Metamask, Truffle, and Solidity.
+
+   Skills: Front-end Development · Web Development · Cloud Applications · TypeScript · SQL · JavaScript · Software Development · Git · HTML · CSS · Node.js · Github · SASS · Linux · Web Components · Stencil.js · Web3.js · Metamask · Truffle · Solidity
+
+** Oct 2021 – April 2023: Senior Software Engineer at Deriv Europe
+   Connecting business, design, and code by technical leadership and implementation of API as a Product. Leading API development and design activities while ensuring that API is secure, reliable, and performant. Collaborating with the product and UX teams to design and implement API solutions that are efficient and extensible. Developing automated tests for API endpoints.
+   Worked on crypto trading utilizing Ethereum and Solidity.
+
+   Skills: Software Development · Web Development · Cloud Applications · TypeScript · SQL · Front-end Development · JavaScript · Git · HTML · CSS · Amazon Web Services (AWS) · PostgreSQL · Redux.js · React.js · Node.js · Github · SASS · Linux · Ethereum · Solidity
+
+** Jan 2017 – 2021: Software Engineer at IBM
+   Developed cognitive business applications in agile methodology using NodeJS server, PostgreSQL database, Kubernetes containers, and cloud AI services (speech-to-text and image recognition). Implemented UI using the latest Angular framework and Material Design. Provided users with an interactive way of taking actions on BPMN business workflows. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views.
+   Collaborated with designers to achieve a unified look and feel of the products through Carbon Design System. Designed, implemented, and supported common Data Table UI components used by multiple UI teams in IBM. Deployed a hybrid cloud application using the Backend for Frontend pattern. Oversaw recruitment and mentored new hires. Developed mobile applications using React Native.
+
+   Skills: Front-end Development · Back-End Web Development · Algorithm Design · Angular · React · Node.js · Cloud Applications · TypeScript · SQL · JavaScript · Algorithm Development · Software Development · Web Development · Git · HTML · CSS · PostgreSQL · RxJS · Github · SASS · Full-Stack Development · Express.js · Algorithm Design · React Native
+
+* Education
+
+** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
+** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
+   - BSc Project: “Brain diffusion tractography and network science”
+
+* Languages
+
+  English: Fluent (C1 certificate) 
+  Polish: Native
+
+* Consent
+
+  I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament's and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (Data Protection Directive).
