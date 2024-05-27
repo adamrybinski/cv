@@ -4,18 +4,15 @@
 ** Experience
 
 *** April 2023 – Present: Software Engineer at Betsson Group
-****** Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the development of new features and enhancing existing functionalities.
-***** Unique Skills
+***** Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the development of new features and enhancing existing functionalities.
 ****** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions
 
 *** Oct 2021 – April 2023: Senior Software Engineer at Deriv Europe
-****** Connecting business, design, and code by technical leadership and implementation of APIs. Leading API development and design activities while ensuring security, reliability, and performance. Collaborating with product and UX teams to design and implement efficient and extensible solutions. Developing automated tests for endpoints.
-***** Unique Skills
+***** Connecting business, design, and code by technical leadership and implementation of APIs. Leading API development and design activities while ensuring security, reliability, and performance. Collaborating with product and UX teams to design and implement efficient and extensible solutions. Developing automated tests for endpoints.
 ****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
 
 *** Jan 2017 – 2021: Software Engineer at IBM
-****** Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services. Implemented UIs using Angular and Material Design. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Designed and supported common Data Table UI components used by multiple teams. Deployed hybrid cloud applications and mentored new hires. Developed mobile applications using React Native.
-****** Unique Skills
+***** Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services. Implemented UIs using Angular and Material Design. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Designed and supported common Data Table UI components used by multiple teams. Deployed hybrid cloud applications and mentored new hires. Developed mobile applications using React Native.
 ****** Kubernetes · React Native · IBM Cloud · Google Cloud · AI Integration · Data Table Design
 
 ** Base Skills
