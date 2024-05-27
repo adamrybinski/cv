@@ -1,28 +1,28 @@
 * Adam Rybinski - Software Engineer
-  - Cell: +35679081417 · Email: adam@compose.land · Linkedin: [[https://www.linkedin.com/in/arybinski][linkedin.com/in/arybinski]] · Github: [[https://www.github.com/adamrrudolf][github.com/adamrrudolf]]
+****** Cell: +35679081417 · Email: adam@compose.land · Linkedin: [[https://www.linkedin.com/in/arybinski][linkedin.com/in/arybinski]] · Github: [[https://www.github.com/adamrrudolf][github.com/adamrrudolf]]
 
 ** Experience
 
 *** April 2023 – Present: Software Engineer at Betsson Group
-    Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the release of a Web3.js product, implementing games utilizing Web3.js payments and integration with Metamask, Truffle, and Solidity.
+****** Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the release of a Web3.js product, implementing games utilizing Web3.js payments and integration with Metamask, Truffle, and Solidity.
     - Base Skills: Front-end Development · Web Development · Cloud Applications · TypeScript · SQL · JavaScript · Software Development · Git · HTML · CSS
     - Unique Skills: Node.js · Github · SASS · Linux · Web Components · Stencil.js · Web3.js · Metamask · Truffle · Solidity
 
 *** Oct 2021 – April 2023: Senior Software Engineer at Deriv Europe
-    Connecting business, design, and code by technical leadership and implementation of API as a Product. Leading API development and design activities while ensuring that API is secure, reliable, and performant. Collaborating with the product and UX teams to design and implement API solutions that are efficient and extensible. Developing automated tests for API endpoints. Worked on crypto trading utilizing Ethereum and Solidity.
+****** Connecting business, design, and code by technical leadership and implementation of API as a Product. Leading API development and design activities while ensuring that API is secure, reliable, and performant. Collaborating with the product and UX teams to design and implement API solutions that are efficient and extensible. Developing automated tests for API endpoints. Worked on crypto trading utilizing Ethereum and Solidity.
     - Base Skills: Software Development · Web Development · Cloud Applications · TypeScript · SQL · Front-end Development · JavaScript · Git · HTML · CSS
     - Unique Skills: Amazon Web Services (AWS) · PostgreSQL · Redux.js · React.js · Node.js · Github · SASS · Linux · Ethereum · Solidity
 
 *** Jan 2017 – 2021: Software Engineer at IBM
-    Developed cognitive business applications in agile methodology using NodeJS server, PostgreSQL database, Kubernetes containers, and cloud AI services (speech-to-text and image recognition). Implemented UI using the latest Angular framework and Material Design. Provided users with an interactive way of taking actions on BPMN business workflows. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Collaborated with designers to achieve a unified look and feel of the products through Carbon Design System. Designed, implemented, and supported common Data Table UI components used by multiple UI teams in IBM. Deployed a hybrid cloud application using the Backend for Frontend pattern. Oversaw recruitment and mentored new hires. Developed mobile applications using React Native.
+****** Developed cognitive business applications in agile methodology using NodeJS server, PostgreSQL database, Kubernetes containers, and cloud AI services (speech-to-text and image recognition). Implemented UI using the latest Angular framework and Material Design. Provided users with an interactive way of taking actions on BPMN business workflows. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Collaborated with designers to achieve a unified look and feel of the products through Carbon Design System. Designed, implemented, and supported common Data Table UI components used by multiple UI teams in IBM. Deployed a hybrid cloud application using the Backend for Frontend pattern. Oversaw recruitment and mentored new hires. Developed mobile applications using React Native.
     - Base Skills: Front-end Development · Back-End Web Development · Algorithm Design · Angular · React · Node.js · Cloud Applications · TypeScript · SQL · JavaScript
     - Unique Skills: Algorithm Development · Software Development · Web Development · Git · HTML · CSS · PostgreSQL · RxJS · Github · SASS · Full-Stack Development · Express.js · React Native
 
-** Education
+*** Education
 
-*** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-    - Studied machine learning models in search for explainable AI and compared layer structure of image recognition models to physical brain structures.
-*** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-    - BSc Project: “Brain diffusion tractography and network science; exploring small world architecture of the brain”
+**** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
+****** Studied machine learning models in search for explainable AI and compared layer structure of image recognition models to physical brain structures.
+**** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
+****** BSc Project: “Brain diffusion tractography and network science; exploring small world architecture of the brain”
 
-** Languages: English: Professional (C1 certificate) · Polish: Native
+***** Languages: English: Professional (C1 certificate) · Polish: Native
