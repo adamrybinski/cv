@@ -4,26 +4,29 @@
 ** Experience
 
 *** April 2023 – Present: Software Engineer at Betsson Group
-****** Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the release of a Web3.js product, implementing games utilizing Web3.js payments and integration with Metamask, Truffle, and Solidity.
-    - Unique Skills: Web3.js · Metamask · Truffle · Solidity · Stencil.js · Web Components
+****** Architecting and developing custom design system components for Betsson. Supporting critical parts of the system. Collaborating with designers, product managers, and other stakeholders. Leading the development of new features and enhancing existing functionalities.
+**** Unique Skills
+***** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions
 
 *** Oct 2021 – April 2023: Senior Software Engineer at Deriv Europe
-****** Connecting business, design, and code by technical leadership and implementation of API as a Product. Leading API development and design activities while ensuring that API is secure, reliable, and performant. Collaborating with the product and UX teams to design and implement API solutions that are efficient and extensible. Developing automated tests for API endpoints. Worked on crypto trading utilizing Ethereum and Solidity.
-    - Unique Skills: AWS Cloud · WebSockets · Solidity · Metamask
+****** Connecting business, design, and code by technical leadership and implementation of APIs. Leading API development and design activities while ensuring security, reliability, and performance. Collaborating with product and UX teams to design and implement efficient and extensible solutions. Developing automated tests for endpoints.
+**** Unique Skills
+****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
 
 *** Jan 2017 – 2021: Software Engineer at IBM
-****** Developed cognitive business applications in agile methodology using NodeJS server, PostgreSQL database, Kubernetes containers, and cloud AI services (speech-to-text and image recognition). Implemented UI using the latest Angular framework and Material Design. Provided users with an interactive way of taking actions on BPMN business workflows. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Collaborated with designers to achieve a unified look and feel of the products through Carbon Design System. Designed, implemented, and supported common Data Table UI components used by multiple UI teams in IBM. Deployed a hybrid cloud application using the Backend for Frontend pattern. Oversaw recruitment and mentored new hires. Developed mobile applications using React Native.
-    - Unique Skills: Kubernetes · React Native · IBM Cloud · Google Cloud
+****** Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services. Implemented UIs using Angular and Material Design. Developed UIs in React for IBM Cloud Products, with technical ownership over multiple views. Designed and supported common Data Table UI components used by multiple teams. Deployed hybrid cloud applications and mentored new hires. Developed mobile applications using React Native.
+**** Unique Skills
+***** Kubernetes · React Native · IBM Cloud · Google Cloud · AI Integration · Data Table Design
 
 ** Base Skills
-****** Git · HTML · CSS · JavaScript · React · Algorithm Design · Front-end Development · Back-end Development · TypeScript · SQL · Software Development · Cloud Applications · Node.js · Github · SASS · Linux · Redux.js · Express.js · RxJS · Full-Stack Development
+****** Git · HTML · CSS · JavaScript · React · Angular · Algorithm Design · TypeScript · SQL · Cloud Applications · Node.js · Github · SASS · Linux · Redux.js · Express.js · RxJS
 
 ** Education
 
 *** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-****** Studied machine learning models in search for explainable AI and compared layer structure of image recognition models to physical brain structures.
+****** Explored topic of machine learning models in search for explainable AI and studied layer structures of image recognition models comparing it to anatomy of physical brain structures.
 *** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-****** BSc Project: Exploring small world network architecture of the brain
+****** BSc Project: Exploring small world network architecture of the brain through brain scans visualisations and data analysis utilising web browsers 3D rendering technologies.
 
 ** Languages
 ****** English: Professional (C1 certificate) · Polish: Native
