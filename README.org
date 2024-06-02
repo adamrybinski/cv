@@ -1,29 +1,34 @@
-* Adam Rybinski - Software Architect
+* Adam Rybinski - Software Developer
 
 ****** Cell: +35679081417 · Email: adam@compose.land · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrrudolf][adamrrudolf]]
 
 ** Experience
 
 *April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed custom design system components using Stencil.js and Web Components
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated with cross-functional teams to lead development of new features
-****** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions
+- Developed reusable UI components using Stencil.js and Web Components
+- Utilized NestJS for building scalable backend services and optimizing application performance
+- Architected micro frontends architecture for independent development and deployment
+- Worked with Docker for containerization and deployment
+- Collaborated with remote teams, demonstrating excellent communication and time management skills
+****** NestJS · Stencil.js · Web Components · Micro Frontends · Design Systems · Docker
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design, ensuring security, reliability and performance
-- Collaborated with product and UX to design and implement efficient, extensible solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
+- Built scalable APIs using NestJS and TypeScript
+- Worked with PostgreSQL for database management and optimization
+- Implemented automated tests and CI/CD pipelines for efficient development workflow
+- Utilized Docker and Kubernetes for containerization and deployment of microservices
+- Led a team of developers, mentoring and providing technical guidance
+****** NestJS · TypeScript · PostgreSQL · Docker · Kubernetes · API Development · CI/CD
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and supported reusable UI components in React used across multiple products
-- Deployed hybrid cloud applications and mentored junior engineers
-****** Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design
+- Developed Angular applications for enterprise clients
+- Utilized Kubernetes for deploying and managing containerized applications
+- Integrated AI services and cognitive capabilities into web applications
+- Worked extensively with Node.js and PostgreSQL for backend development
+****** Angular · Kubernetes · AI Integration · Node.js · PostgreSQL
 
 ** Key Skills
-****** Generative AI Tools (ChatGPT, Bard, Bing) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes
+****** NestJS · TypeScript · PostgreSQL · Docker · TypeORM · Vue/Vuetify (familiarity) · API Design · Microservices · CI/CD Pipelines · Remote Team Collaboration
 
 ** Education
 
@@ -32,5 +37,3 @@
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
 ****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
-
-****** Languages: English - Professional (C1) · Polish - Native
