@@ -26,7 +26,7 @@
 ****** Node.js · TypeScript · PostgreSQL · Kubernetes · React · IBM Cloud · Google Cloud · AI/ML Integration · Reusable Component Design
 
 ** Key Skills
-****** React · Next.js · Node.js · TypeScript · Web3 (Rainbow, Wagmi, Viem, BigInt) · PostgreSQL · AWS · Docker · Generative AI Tools (ChatGPT, Bard, Bing) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · Kubernetes
+****** React · Next.js · Node.js · TypeScript · Web3 (Truffle, Solidity, Hyperledger) · PostgreSQL · AWS · Docker · Generative AI Tools (OpenAi, Llama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · Kubernetes
 
 ** Education
 
