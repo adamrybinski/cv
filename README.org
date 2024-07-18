@@ -10,7 +10,7 @@
 - Architected micro frontends architecture for independent development and deployment
 - Worked with Docker for containerization and deployment
 - Collaborated with remote teams, demonstrating excellent communication and time management skills
-****** NestJS · Stencil.js · Web Components · Microfrontends · Design Systems
+****** React · Stencil.js · Web Components · Docker · Microfrontends · Design Systems
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
 - Built scalable APIs using NestJS and TypeScript
@@ -18,17 +18,18 @@
 - Implemented automated tests and CI/CD pipelines for efficient development workflow
 - Utilized Docker and Kubernetes for containerization and deployment of microservices
 - Led a team of developers, mentoring and providing technical guidance
-****** NestJS · TypeScript · PostgreSQL · React · API Development · CI/CD
+****** React · NestJS · TypeScript · PostgreSQL · Docker · Kubernetes · CI/CD
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Developed Angular applications for enterprise clients
+- Transitioned from backend development with Node.js and PostgreSQL to Kubernetes and then to React
 - Utilized Kubernetes for deploying and managing containerized applications
 - Integrated AI services and cognitive capabilities into web applications
-- Worked extensively with Node.js and PostgreSQL for backend development
-****** Angular · Kubernetes · AI Integration · Node.js · PostgreSQL · Microservices
+- Worked on Carbon Design System, providing a datatable component used organization-wide
+****** React · Angular · Kubernetes · Node.js · PostgreSQL · AI Integration · Microservices · Design Systems
 
 ** Key Skills
-****** NestJS · TypeScript · PostgreSQL · Docker · TypeORM · Vue · API Design · Microservices · CI/CD Pipelines · Remote Team Collaboration
+****** React · Stencil.js · Angular · Web Components · Design Systems · Node.js · NestJS · TypeScript · PostgreSQL · Docker · Kubernetes · CI/CD Pipelines · Remote Team Collaboration
 
 ** Education
 
@@ -37,3 +38,7 @@
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
 ****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
+
+** Projects and Contributions
+- **Design Systems:** Contributed to three design systems, including the Carbon Design System, where I provided a datatable component used across the organization.
+- **Microfrontends:** Architected and implemented micro frontend solutions to facilitate independent development and deployment.
