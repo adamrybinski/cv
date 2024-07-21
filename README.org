@@ -5,11 +5,11 @@
 ** Experience
 
 *April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed custom design system components using Stencil.js and Web Components
+- Architected and developed AI chat application for client support
 - Implemented micro frontends architecture to enable independent development and deployment
 - Collaborated with cross-functional teams to lead development of new features
 - Led efforts in cloud infrastructure management and CI/CD deployment
-****** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD
+****** Generativ · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
 - Led API development and design, ensuring security, reliability, and performance
@@ -19,14 +19,14 @@
 ****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Generative AI
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
+- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and IBM Watson cloud AI services
 - Designed and supported reusable UI components in React used across multiple products
 - Deployed hybrid cloud applications and mentored junior engineers
-- Implemented AI solutions for business intelligence and cybersecurity simulations
+- Implemented AI solutions for business intelligence and business workflows
 ****** Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design · Cybersecurity Simulations
 
 ** Key Skills
-****** AI Development · Generative AI Tools (ChatGPT, Bard, Bing) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping · Cybersecurity Simulations
+****** AI Development · Generative AI Tools (Vertex AI studio, Amazon SagemMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping
 
 ** Education
 
