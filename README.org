@@ -1,4 +1,4 @@
-* Adam Rybinski - Software Engineer
+* Adam Rybinski - AI Developer
 
 ****** Cell: +35679081417 · Email: adam@compose.land · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrrudolf][adamrrudolf]]
 
@@ -8,22 +8,25 @@
 - Architected and developed custom design system components using Stencil.js and Web Components
 - Implemented micro frontends architecture to enable independent development and deployment
 - Collaborated with cross-functional teams to lead development of new features
-****** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions
+- Led efforts in cloud infrastructure management and CI/CD deployment
+****** Stencil.js · Web Components · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design, ensuring security, reliability and performance
+- Led API development and design, ensuring security, reliability, and performance
 - Collaborated with product and UX to design and implement efficient, extensible solutions
 - Developed automated tests for API endpoints and implemented CI/CD pipelines
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
+- Gained experience in generative AI tools and models
+****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Generative AI
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
 - Designed and supported reusable UI components in React used across multiple products
 - Deployed hybrid cloud applications and mentored junior engineers
-****** Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design
+- Implemented AI solutions for business intelligence and cybersecurity simulations
+****** Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design · Cybersecurity Simulations
 
 ** Key Skills
-****** Generative AI Tools (ChatGPT, Bard, Bing) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes
+****** AI Development · Generative AI Tools (ChatGPT, Bard, Bing) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping · Cybersecurity Simulations
 
 ** Education
 
