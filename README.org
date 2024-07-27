@@ -5,25 +5,25 @@
 ** Experience
 
 *April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed custom design system utilising Web Components
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated with cross-functional teams to lead development of new features
-****** Web Components · Micro Frontends · Design System · Github Actions
+- Developed and maintained custom web components for the design system
+- Spearheaded the implementation of a micro frontends architecture to streamline independent development
+- Enhanced CI/CD processes and managed cloud infrastructure for seamless deployment
+****** Web Components · Micro Frontends · Design System · AWS Cloud · CI/CD · Terraform
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design system, ensuring security, reliability and performance
-- Collaborated with product and UX to design and implement efficient, extensible solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
+- Directed API development ensuring robust security, reliability, and performance standards
+- Partnered with product and UX teams to deliver scalable and efficient software solutions
+- Automated testing for APIs and improved CI/CD pipeline workflows
+****** AWS Cloud · WebSockets · API Development · Testing Automation · Continuous Integration/Continuous Deployment (CI/CD) · Python
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and supported reusable UI components in React used across multiple products
-- Deployed Big Data hybrid cloud applications for public IBM cloud and on-premise
-****** Kubernetes · React · IBM Cloud · AI Integration · Reusable Component Design
+- Created cognitive applications using a mix of technologies including Python, NodeJS, and PostgreSQL
+- Designed and maintained reusable React components across various projects
+- Led deployment of hybrid cloud solutions and provided mentorship to junior engineers
+****** Python · Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Component Design · Cybersecurity Solutions
 
 ** Key Skills
-****** Generative AI Tools (Vertex AI Studio, Amazon SageMaker, GPT, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes
+****** Python · AWS (Lambda, S3, SES, SQS, Cognito, Amplify) · Terraform · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping · Cybersecurity Practices · REST APIs · ORM (PostgreSQL) · asyncio · aiohttp · Event-Driven Architecture · Domain Driven Development
 
 ** Education
 
@@ -33,4 +33,15 @@
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
 ****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
 
-****** Languages: English - Professional (C1) · Polish - Native
+** Languages
+****** English - Professional (C1) · Polish - Native
+
+** Projects and Contributions
+- Enhanced backend services with Python and AWS, improving overall system performance and scalability
+- Developed and executed comprehensive testing frameworks (unit, integration, end-to-end)
+- Architected and deployed infrastructure using Terraform to leverage various AWS services
+- Implemented responsive design principles and collaborated with data scientists to continually improve the user experience
+
+** Additional Information
+- Strong attention to detail and analytical skills
+- Proficient in project management tools like JIRA
