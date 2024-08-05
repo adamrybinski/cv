@@ -5,28 +5,31 @@
 ** Experience
 
 *April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed AI chat application for client support
+- Architected and developed AI chat application for client support using OpenAI
+- Expanded AI-based knowledge base using recent approaches such as GraphRAG and Neo4j
 - Implemented micro frontends architecture to enable independent development and deployment
 - Collaborated with cross-functional teams to lead development of new features
 - Led efforts in cloud infrastructure management and CI/CD deployment
-****** Generativ · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD
+****** OpenAI · Generative AI · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD · GraphRAG · Neo4j
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
 - Led API development and design, ensuring security, reliability, and performance
+- Created an AI-trained knowledge base for internal use
 - Collaborated with product and UX to design and implement efficient, extensible solutions
 - Developed automated tests for API endpoints and implemented CI/CD pipelines
 - Gained experience in generative AI tools and models
 ****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Generative AI
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and IBM Watson cloud AI services
+- Developed cognitive business applications using Python, SQL, NodeJS, PostgreSQL, Kubernetes, and IBM Watson cloud AI services
+- Created a cognitive application to extract text from speech and generate automatic chapters for business videos using Python and IBM Watson AI
 - Designed and supported reusable UI components in React used across multiple products
 - Deployed hybrid cloud applications and mentored junior engineers
 - Implemented AI solutions for business intelligence and business workflows
-****** Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design · Cybersecurity Simulations
+****** Python · SQL · IBM's Watson AI · Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design
 
 ** Key Skills
-****** AI Development · Generative AI Tools (Vertex AI studio, Amazon SagemMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping
+****** Python · SQL · LangChain · OpenAI · Anthropic · AI Development · Generative AI Tools (Vertex AI studio, Amazon SageMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping · 
 
 ** Education
 
