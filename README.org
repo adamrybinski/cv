@@ -1,29 +1,29 @@
-* Adam Rybinski - Software Engineer
+* Adam Rybinski - QA Engineer
 
 ****** [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrybinski][adamrybinski]]
 
 ** Experience
 
-*April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed custom design system utilising Web Components
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated with cross-functional teams to lead development of new features
-****** Web Components · Micro Frontends · Design System · Github Actions
+*April 2023 – Present:* QA Engineer at Betsson Group
+- Architected and developed custom design system utilising Web Components, ensuring high-quality standards
+- Implemented micro frontends architecture with a focus on testability and performance
+- Developed and maintained comprehensive test suites for new features in collaboration with cross-functional teams
+****** Web Components · Micro Frontends · Design System · Cypress · Playwright · Github Actions
 
-*Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design system, ensuring security, reliability and performance
-- Collaborated with product and UX to design and implement efficient, extensible solutions
+*Oct 2021 – April 2023:* Senior QA Engineer at Deriv Europe 
+- Led QA efforts for API development and design system, ensuring security, reliability, and performance
+- Collaborated with product and UX teams to design and implement automated testing strategies
 - Developed automated tests for API endpoints and implemented CI/CD pipelines
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
+****** AWS Cloud · WebSockets · API Testing · Automated Testing · Continuous Integration/Continuous Deployment (CI/CD)
 
-*Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and supported reusable UI components in React used across multiple products
-- Deployed Big Data hybrid cloud applications for public IBM cloud and on-premise
-****** Kubernetes · React · IBM Cloud · AI Integration · Reusable Component Design
+*Jan 2017 – 2021:* QA Engineer at IBM
+- Developed and executed test plans for cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
+- Designed and supported reusable UI components in React with a focus on test coverage and quality
+- Deployed and tested Big Data hybrid cloud applications for public IBM cloud and on-premise environments
+****** Kubernetes · React · IBM Cloud · AI Integration · Reusable Component Testing · Cypress · Playwright
 
 ** Key Skills
-****** Generative AI Tools (Vertex AI Studio, Amazon SageMaker, GPT, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes
+****** Cypress · Playwright · Automated Testing · API Testing · CI/CD · Cloud Architecture · Microservices · Team Leadership · Mentoring · React · Node.js · Kubernetes
 
 ** Education
 
