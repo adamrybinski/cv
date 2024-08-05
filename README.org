@@ -29,7 +29,7 @@
 ****** Python · SQL · IBM's Watson AI · Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design
 
 ** Key Skills
-****** Python · SQL · LangChain · OpenAI · Anthropic · AI Development · Generative AI Tools (Vertex AI studio, Amazon SageMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping · 
+****** Python · SQL · LangChain · OpenAI · Anthropic · AI Development · Generative AI Tools (Vertex AI studio, Amazon SageMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping
 
 ** Education
 
