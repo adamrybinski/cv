@@ -1,36 +1,41 @@
-* Adam Rybinski - Software Engineer
-
-****** [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrybinski][adamrybinski]]
+* Adam Rybinski - Senior Software Engineer
+   [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · LinkedIn: [[https://www.linkedin.com/in/arybinski][arybinski]] · GitHub: [[https://www.github.com/adamrybinski][adamrybinski]]
 
 ** Experience
 
-*April 2023 – Present:* Software Engineer at Betsson Group
-- Architected and developed custom design system utilising Web Components
+*April 2023 – Present:* Senior Software Engineer at Betsson Group
+- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing
+- Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity
 - Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated with cross-functional teams to lead development of new features
-****** Web Components · Micro Frontends · Design System · Github Actions
+- Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
+- Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
+  ****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
 
-*Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design system, ensuring security, reliability and performance
-- Collaborated with product and UX to design and implement efficient, extensible solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD)
+*Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
+- Led API development for high-frequency trading systems, focusing on security, scalability, and performance
+- Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
+- Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
+- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
+  ****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and supported reusable UI components in React used across multiple products
-- Deployed Big Data hybrid cloud applications for public IBM cloud and on-premise
-****** Kubernetes · React · IBM Cloud · AI Integration · Reusable Component Design
-
-** Key Skills
-****** Generative AI Tools (Vertex AI Studio, Amazon SageMaker, GPT, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes
+- Designed and maintained reusable UI components in React and Angular, used across multiple products
+- Led frontend development using React and Angular, improving user interfaces for AI-driven applications
+- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
+- Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
+  ****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
 
 ** Education
 
 ***** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-****** Thesis: Explainable AI and Neural Network Architectures for Image Recognition 
+   - Thesis: Explainable AI and Neural Network Architectures for Image Recognition
+   - Focused on statistical methods and mathematics in graph theory and data analysis
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
+   - BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization and Graph Theory
+   - Focused on small-world network analysis and the application of graph theory to study brain connectivity patterns
 
-****** Languages: English - Professional (C1) · Polish - Native
+** Languages
+   - English - Professional (C1)
+   - Polish - Native
