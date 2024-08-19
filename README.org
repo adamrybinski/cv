@@ -32,11 +32,11 @@
 
 ** Education
 
-***2017-2019:* Master's Studies in Cognitive Science, Jagiellonian University, Cracow
+***** *2017-2019:* Master's Studies in Cognitive Science, Jagiellonian University, Cracow
    - Thesis: Explainable AI and Neural Network Architectures for Image Recognition
    - Focused on statistical methods and mathematics in graph theory and data analysis
 
-***2011-2015:* B.Sc. in Neuroscience, Jagiellonian University, Cracow
+***** *2011-2015:* B.Sc. in Neuroscience, Jagiellonian University, Cracow
    - BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization and Graph Theory
    - Focused on small-world network analysis and the application of graph theory in neuroscience to study brain connectivity patterns
      
