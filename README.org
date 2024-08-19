@@ -9,14 +9,16 @@
 - Implemented micro frontends architecture to enable independent development and deployment
 - Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
 - Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
-  ****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
+  
+****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
 - Led API development for high-frequency trading systems, focusing on security, scalability, and performance
 - Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
 - Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
 - Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
-  ****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
+  
+****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
@@ -24,7 +26,8 @@
 - Led frontend development using React and Angular, improving user interfaces for AI-driven applications
 - Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
 - Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
-  ****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
+  
+****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
 
 ** Education
 
