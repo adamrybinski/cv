@@ -29,6 +29,14 @@
   
 ****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
 
+** Key Skills
+   - Programming Languages: Python · Node.js · JavaScript (React, Angular) · SQL
+   - Cloud & Infrastructure: AWS · Terraform · Kubernetes · CI/CD Pipelines · Cloud Automation
+   - APIs & Databases: API Design · Microservices · PostgreSQL · RDBMS · Data Pipelines
+   - Fintech & Real-Time Systems: High-Frequency Trading Systems · Financial Data Processing
+   - Development Practices: Automated Testing · Continuous Integration/Continuous Deployment (CI/CD) · Infrastructure as Code
+   - Machine Learning: AI/ML Integration · Generative AI Tools (Amazon SageMaker, GPT, Vertex AI)
+
 ** Education
 
 ***** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
