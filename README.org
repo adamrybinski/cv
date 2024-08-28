@@ -1,39 +1,53 @@
-* Adam Rybinski - Software Developer
-
-****** [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrybinski][adamrybinski]]
+* Adam Rybinski - Software Engineer
+   [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · LinkedIn: [[https://www.linkedin.com/in/arybinski][arybinski]] · GitHub: [[https://www.github.com/adamrybinski][adamrybinski]]
 
 ** Experience
 
-*April 2023 – Present:* Software Engineer at Betsson Group
-- Developed reusable UI components using Stencil.js and Web Components
-- Utilized NestJS for building scalable backend services and optimizing application performance
-- Architected micro frontends architecture for independent development and deployment
-- Worked with Docker for containerization and deployment
-- Collaborated with remote teams, demonstrating excellent communication and time management skills
-****** NestJS · Stencil.js · Web Components · Microfrontends · Design Systems
+*April 2023 – Present:* Senior Software Engineer at Betsson Group
+- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing
+- Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity
+- Implemented micro frontends architecture to enable independent development and deployment
+- Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
+- Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
+  
+****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
 
-*Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Built scalable APIs using NestJS and TypeScript
-- Worked with PostgreSQL for database management and optimization
-- Implemented automated tests and CI/CD pipelines for efficient development workflow
-- Utilized Docker and Kubernetes for containerization and deployment of microservices
-- Led a team of developers, mentoring and providing technical guidance
-****** NestJS · TypeScript · PostgreSQL · React · API Development · CI/CD
+*Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
+- Led API development for high-frequency trading systems, focusing on security, scalability, and performance
+- Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
+- Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
+- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
+- Worked with MongoDB for backend interaction while developing trading APIs, especially through WebSockets
+
+****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · MongoDB · Fintech · Kubernetes
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed Angular applications for enterprise clients
-- Utilized Kubernetes for deploying and managing containerized applications
-- Integrated AI services and cognitive capabilities into web applications
-- Worked extensively with Node.js and PostgreSQL for backend development
-****** Angular · Kubernetes · AI Integration · Node.js · PostgreSQL · Microservices
+- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
+- Designed and maintained reusable UI components in React and Angular, used across multiple products
+- Led frontend development using React and Angular, improving user interfaces for AI-driven applications
+- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
+- Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
+  
+****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
 
 ** Key Skills
-****** NestJS · TypeScript · PostgreSQL · Docker · TypeORM · Vue · API Design · Microservices · CI/CD Pipelines · Remote Team Collaboration
+   - Programming Languages: Python · Node.js · JavaScript (React, Angular) · SQL
+   - Cloud & Infrastructure: AWS · Terraform · Kubernetes · CI/CD Pipelines · Cloud Automation
+   - APIs & Databases: API Design · Microservices · MongoDB · PostgreSQL · RDBMS · Data Pipelines
+   - Fintech & Real-Time Systems: High-Frequency Trading Systems · Financial Data Processing
+   - Development Practices: Automated Testing · Continuous Integration/Continuous Deployment (CI/CD) · Infrastructure as Code
+   - Machine Learning: AI/ML Integration · Generative AI Tools (Amazon SageMaker, GPT, Vertex AI)
 
 ** Education
 
 ***** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-****** Thesis: Explainable AI and Neural Network Architectures for Image Recognition 
+   - Thesis: Explainable AI and Neural Network Architectures for Image Recognition
+   - Focused on statistical methods and mathematics in graph theory and data analysis
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
+   - BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization and Graph Theory
+   - Focused on small-world network analysis and the application of graph theory to study brain connectivity patterns
+
+** Languages
+   - English - Professional (C1)
+   - Polish - Native
