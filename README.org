@@ -19,7 +19,7 @@
 - Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
 - Worked with MongoDB for backend interaction while developing trading APIs, especially through WebSockets
 
-****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · MongoDB · Fintech · Kubernetes
+****** WebSockets · MongoDB · AWS Cloud · Terraform · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · MongoDB · Fintech · Kubernetes
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
