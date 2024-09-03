@@ -1,41 +1,42 @@
-* Adam Rybinski - Senior Software Engineer
+* Adam Rybinski - Senior Software Engineer / Frontend Tech Lead
    [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · LinkedIn: [[https://www.linkedin.com/in/arybinski][arybinski]] · GitHub: [[https://www.github.com/adamrybinski][adamrybinski]]
 
 ** Experience
 
 *April 2023 – Present:* Senior Software Engineer at Betsson Group
-- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing
-- Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
-- Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
-  
-****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
+- Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity, central to the React-based architecture.
+- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing.
+- Implemented micro frontends architecture enabling independent development and deployment of React components, aligning with modern JavaScript practices.
+- Guided a team of engineers in translating complex business requirements into technical specifications for gaming products, ensuring seamless integration with real-time financial data feeds.
+- Actively promoted best practices in code quality, continuous integration, and agile methodologies across international teams.
+
+****** React · Web Components · Micro Frontends · Terraform · AWS · Node.js · CI/CD · Leadership
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
-- Led API development for high-frequency trading systems, focusing on security, scalability, and performance
-- Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
-- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
-  
-****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
+- Led frontend development efforts focusing on React and Next.js to deliver high-quality, responsive user interfaces for fintech solutions.
+- Acted as the primary technical contact for frontend issues within the team, driving the adoption of modern JavaScript features and frameworks.
+- Developed and maintained API endpoints for high-frequency trading systems, ensuring robust security and performance standards.
+- Promoted pair programming and code reviews to improve code quality and team collaboration.
+- Played a key role in mentoring junior developers and supporting the team manager in skill development.
+
+****** React · Next.js · API Development · Agile · Leadership · Continuous Integration/Continuous Deployment (CI/CD)
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and maintained reusable UI components in React and Angular, used across multiple products
-- Led frontend development using React and Angular, improving user interfaces for AI-driven applications
-- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
-- Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
-  
-****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
+- Led frontend development using React and Angular for AI-driven applications, focusing on international and diverse team collaboration.
+- Designed and maintained reusable UI components in React, used across multiple products, ensuring consistency and efficiency.
+- Orchestrated large-scale Kubernetes deployments and integrated AI tools for advanced analytics in a cloud environment.
+- Collaborated with global teams to deploy Big Data hybrid cloud applications, improving the scalability and performance of cognitive business applications.
+- Acted as a bridge between international teams, ensuring seamless communication and delivery of complex technical solutions.
+
+****** React · Angular · Kubernetes · IBM Cloud · Reusable Component Design · Cloud Architecture · International Collaboration
 
 ** Key Skills
-   - Programming Languages: Python · Node.js · JavaScript (React, Angular) · SQL
+   - Programming Languages: JavaScript (React, Next.js, Angular) · Python · Node.js · SQL
+   - Frontend Development: Web Components · Responsive Design · Cross-browser Compatibility
+   - Leadership & Collaboration: Team Leadership · Mentorship · Agile Methodologies · International Teamwork
    - Cloud & Infrastructure: AWS · Terraform · Kubernetes · CI/CD Pipelines · Cloud Automation
-   - APIs & Databases: API Design · Microservices · PostgreSQL · RDBMS · Data Pipelines
-   - Fintech & Real-Time Systems: High-Frequency Trading Systems · Financial Data Processing
-   - Development Practices: Automated Testing · Continuous Integration/Continuous Deployment (CI/CD) · Infrastructure as Code
-   - Machine Learning: AI/ML Integration · Generative AI Tools (Amazon SageMaker, GPT, Vertex AI)
+   - APIs & Databases: API Design · Microservices · REST APIs · PostgreSQL · RDBMS
+   - Development Practices: Continuous Integration/Continuous Deployment (CI/CD) · Automated Testing · Infrastructure as Code
 
 ** Education
 
