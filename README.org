@@ -4,37 +4,40 @@
 ** Experience
 
 *April 2023 – Present:* Senior Software Engineer at Betsson Group
-- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing
+- Developed and integrated Web3 iGaming wallet, supporting multiple cryptocurrencies for seamless transactions
+- Architected cloud infrastructure using AWS and Terraform to support decentralized gaming platforms and secure financial data processing
+- Collaborated with blockchain engineers to integrate cryptocurrency payments and smart contracts for gaming ecosystems
 - Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity
 - Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
 - Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
   
-****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
+****** Web3 Wallet Integration · Cryptocurrencies · Smart Contracts · Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
-- Led API development for high-frequency trading systems, focusing on security, scalability, and performance
-- Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
-- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
+- Led Ethereum-based API development, integrating with MetaMask and Solidity for high-frequency trading platforms
+- Built decentralized fintech solutions, focusing on security, scalability, and performance
+- Integrated decentralized finance (DeFi) tools with blockchain wallets and smart contracts to enable seamless trading
+- Developed automated tests for Ethereum API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
+- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and blockchain data pipelines
   
-****** AWS Cloud · Terraform · WebSockets · React · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
+****** Ethereum · MetaMask Integration · Solidity · Smart Contracts · AWS Cloud · Terraform · API Development and Testing · WebSockets · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and maintained reusable UI components in React and Angular, used across multiple products
-- Led frontend development using React and Angular, improving user interfaces for AI-driven applications
-- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
-- Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
+- Developed blockchain solutions using Hyperledger Fabric for enterprise applications
+- Designed secure, scalable decentralized applications (dApps) for supply chain and financial services
+- Led frontend development using React and Angular for blockchain interfaces, improving user interaction with decentralized apps
+- Integrated blockchain technology with cloud AI services to provide advanced analytics for blockchain transactions
+- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments using blockchain technology
   
-****** React · Angular · Node.js · Kubernetes · IBM Cloud · AI Integration · Reusable Component Design · Cloud Architecture
+****** Hyperledger Fabric · Blockchain Solutions · Decentralized Applications (dApps) · Smart Contracts · React · Angular · Node.js · Kubernetes · IBM Cloud · Cloud Architecture
 
 ** Key Skills
-   - Programming Languages: JavaScript (React, Angular) · TypeScript
-   - Front-End Technologies: Web Components · React · Angular · TailwindCSS (transferable skills from CSS expertise)
-   - APIs & Databases: API Design · Microservices · PostgreSQL · RDBMS · WebSockets · Data Pipelines
+   - Blockchain Technologies: Web3 Wallets · Hyperledger Fabric · Ethereum · MetaMask · Solidity · Smart Contracts
+   - Programming Languages: JavaScript (React, Angular, Solid.js) · TypeScript
+   - Front-End Technologies: Web Components · React · Angular · Solid.js · TailwindCSS (transferable skills from CSS expertise)
+   - APIs & Databases: API Design · Blockchain APIs · Microservices · PostgreSQL · RDBMS · WebSockets · Data Pipelines
    - Cloud & Infrastructure: AWS · Terraform · Kubernetes · CI/CD Pipelines · Cloud Automation
-   - Fintech & Real-Time Systems: High-Frequency Trading Systems · Financial Data Processing
+   - Fintech & DeFi: High-Frequency Trading Systems · Financial Data Processing · Blockchain Integration
    - Development Practices: Pixel-Perfect Design Implementation · Cross-Browser Compatibility · Automated Testing · CI/CD
 
 ** Education
