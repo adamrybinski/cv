@@ -4,36 +4,31 @@
 ** Experience
 
 *April 2023 – Present:* Senior Software Engineer at Betsson Group
-- Architected and deployed cloud infrastructure using AWS and Terraform to support trading platforms and financial data processing
-- Spearheaded the development of a custom design system with Web Components, improving frontend performance and modularity
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated on microservices and backend services development using Python and Node.js, ensuring seamless integration with real-time financial data feeds and APIs
-- Worked extensively on automating infrastructure and deployment pipelines, integrating cloud-native services, and optimizing system performance across distributed environments
+- Developed backend systems using Python, integrating real-time financial data feeds and APIs.
+- Architected and deployed cloud infrastructure with AWS, optimizing Python-based services.
+- Spearheaded the development of automated pipelines using Python, enhancing data processing and system performance.
+- Led backend microservices development with Python, focusing on scalability and integration with trading platforms.
   
-****** Web Components · Micro Frontends · Terraform · AWS · Node.js · Python · CI/CD · Data Pipelines · Kubernetes
+  ****** Python · AWS · Microservices · Real-Time Data · CI/CD Pipelines · Data Processing
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
-- Led API development for high-frequency trading systems, focusing on security, scalability, and performance
-- Collaborated with product and UX teams to deliver extensible and efficient fintech solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines to ensure smooth delivery of features
-- Integrated cloud infrastructure using AWS services and Terraform, focusing on cloud automation and data pipelines
+- Led the development of high-performance APIs for trading platforms using Python.
+- Developed automated Python-based testing frameworks for financial systems.
+- Optimized Python applications to handle large-scale, high-frequency trading data.
   
-****** AWS Cloud · Terraform · WebSockets · Python · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Fintech · Kubernetes
+  ****** Python · API Development · Financial Systems · High-Frequency Trading · AWS · CI/CD Pipelines
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using NodeJS, PostgreSQL, Kubernetes, and cloud AI services
-- Designed and maintained reusable UI components in React and Angular, used across multiple products
-- Led frontend development using React and Angular, improving user interfaces for AI-driven applications
-- Deployed Big Data hybrid cloud applications for IBM Cloud and on-premise environments
-- Leveraged Kubernetes to orchestrate large-scale deployments and integrated AI tools for advanced analytics
+- Built cognitive business applications with a strong backend focus on Python for AI integrations.
+- Deployed and maintained Python-based data processing systems on Kubernetes.
+- Implemented Python scripts for automating large-scale data analysis and cloud deployments.
   
-****** Kubernetes · React · Angular · Node.js · IBM Cloud · PostgreSQL · AI Integration · Reusable Component Design · Cloud Architecture
+  ****** Python · Kubernetes · AI Integration · Cloud Automation · Data Processing
 
 ** Key Skills
-   - Programming Languages: Python · Node.js · JavaScript (React, Angular) · SQL
+   - Programming Languages: Python · SQL · JavaScript (React, Angular) · Node.js
    - Cloud & Infrastructure: AWS · Terraform · Kubernetes · CI/CD Pipelines · Cloud Automation
    - APIs & Databases: API Design · Microservices · PostgreSQL · RDBMS · Data Pipelines
-   - Fintech & Real-Time Systems: High-Frequency Trading Systems · Financial Data Processing
    - Development Practices: Automated Testing · Continuous Integration/Continuous Deployment (CI/CD) · Infrastructure as Code
    - Machine Learning: AI/ML Integration · Generative AI Tools (Amazon SageMaker, GPT, Vertex AI)
 
@@ -41,11 +36,11 @@
 
 ***** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
    - Thesis: Explainable AI and Neural Network Architectures for Image Recognition
-   - Focused on statistical methods and mathematics in graph theory and data analysis
+   - Focused on Python for statistical methods and data analysis in graph theory.
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-   - BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization and Graph Theory
-   - Focused on small-world network analysis and the application of graph theory to study brain connectivity patterns
+   - BSc Project: Analyzing Brain Network Architectures using Python for Graph Theory and 3D Visualization
+   - Focused on Python for small-world network analysis and brain connectivity patterns.
 
 ** Languages
    - English - Professional (C1)
