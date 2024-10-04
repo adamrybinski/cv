@@ -9,21 +9,21 @@
 - Spearheaded the development of automated pipelines using Python, enhancing data processing and system performance.
 - Led backend microservices development with Python, focusing on scalability and integration with trading platforms.
   
-  ****** Python · AWS · Microservices · Real-Time Data · CI/CD Pipelines · Data Processing
+****** Python · AWS · Microservices · Real-Time Data · CI/CD Pipelines · Data Processing
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe
 - Led the development of high-performance APIs for trading platforms using Python.
 - Developed automated Python-based testing frameworks for financial systems.
 - Optimized Python applications to handle large-scale, high-frequency trading data.
   
-  ****** Python · API Development · Financial Systems · High-Frequency Trading · AWS · CI/CD Pipelines
+****** Python · API Development · Financial Systems · High-Frequency Trading · AWS · CI/CD Pipelines
 
 *Jan 2017 – 2021:* Software Engineer at IBM
 - Built cognitive business applications with a strong backend focus on Python for AI integrations.
 - Deployed and maintained Python-based data processing systems on Kubernetes.
 - Implemented Python scripts for automating large-scale data analysis and cloud deployments.
   
-  ****** Python · Kubernetes · AI Integration · Cloud Automation · Data Processing
+****** Python · Kubernetes · AI Integration · Cloud Automation · Data Processing
 
 ** Key Skills
    - Programming Languages: Python · SQL · JavaScript (React, Angular) · Node.js
