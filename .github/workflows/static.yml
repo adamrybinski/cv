@@ -1,0 +1,125 @@
+name: Generate README Index and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install -g marked
+
+      - name: Generate README index
+        run: |
+          mkdir -p dist
+          echo "<!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset='utf-8'>
+            <meta name='viewport' content='width=device-width, initial-scale=1'>
+            <title>README Collection</title>
+            <style>
+              body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+                line-height: 1.6;
+                color: #24292e;
+                max-width: 980px;
+                margin: 0 auto;
+                padding: 45px;
+              }
+              .branch-section {
+                margin-bottom: 40px;
+                padding: 20px;
+                border: 1px solid #e1e4e8;
+                border-radius: 6px;
+              }
+              .branch-header {
+                padding-bottom: 10px;
+                margin-bottom: 20px;
+                border-bottom: 1px solid #eaecef;
+              }
+              h1 {
+                font-size: 2em;
+              }
+              h2 {
+                font-size: 1.5em;
+              }
+              pre {
+                background-color: #f6f8fa;
+                border-radius: 3px;
+                padding: 16px;
+                overflow: auto;
+              }
+              code {
+                font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+                background-color: rgba(27, 31, 35, 0.05);
+                border-radius: 3px;
+                padding: 0.2em 0.4em;
+              }
+              pre code {
+                background-color: transparent;
+                padding: 0;
+              }
+            </style>
+          </head>
+          <body>
+            <h1>README Collection from All Branches</h1>" > dist/index.html
+          
+          # Get all branches
+          for branch in $(git branch -r | grep -v HEAD | sed 's/origin\///'); do
+            echo "Processing branch: $branch"
+            
+            # Checkout the branch
+            git checkout $branch
+            
+            # Check if README exists in this branch
+            if [ -f "README.md" ]; then
+              echo "Found README.md in branch $branch"
+              
+              # Convert markdown to HTML and append to index.html
+              echo "<div class='branch-section'>
+                <div class='branch-header'>
+                  <h2>Branch: $branch</h2>
+                </div>
+                <div class='readme-content'>" >> dist/index.html
+              
+              # Convert README to HTML and append
+              node -e "
+                const fs = require('fs');
+                const marked = require('marked');
+                const readme = fs.readFileSync('README.md', 'utf8');
+                const html = marked.parse(readme);
+                fs.appendFileSync('dist/index.html', html);
+              "
+              
+              echo "</div></div>" >> dist/index.html
+            else
+              echo "No README.md found in branch $branch"
+            fi
+          done
+          
+          # Complete the HTML file
+          echo "</body></html>" >> dist/index.html
+          
+          # Return to original branch
+          git checkout ${GITHUB_REF#refs/heads/}
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
