@@ -1,0 +1,119 @@
+name: Deploy CV Collection to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Generate README.org Collection
+        run: |
+          # Create output directory
+          mkdir -p _site
+          
+          # Create a simple index.html
+          cat > _site/index.html << 'EOL'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Adam Rybinski - CV Collection</title>
+            <style>
+              body {
+                font-family: monospace;
+                line-height: 1.5;
+                margin: 20px;
+                max-width: 900px;
+                margin: 0 auto;
+              }
+              .branch {
+                margin-bottom: 30px;
+                border-bottom: 1px solid #ccc;
+                padding-bottom: 20px;
+              }
+              h2 {
+                background-color: #eee;
+                padding: 5px;
+              }
+              pre {
+                white-space: pre-wrap;
+                margin: 0;
+                padding: 10px;
+                background-color: #f9f9f9;
+              }
+            </style>
+          </head>
+          <body>
+            <h1>Adam Rybinski - CV Collection</h1>
+          EOL
+          
+          # Get all branches
+          branches=$(git branch -r | grep -v HEAD | sed 's/origin\///')
+          
+          # Process each branch and add content to index.html
+          for branch in $branches; do
+            echo "Processing branch: $branch"
+            
+            # Checkout the branch
+            git checkout origin/$branch
+            
+            # Check specifically for README.org file
+            if [ -f "README.org" ]; then
+              echo "Found README.org in branch $branch"
+              
+              # Read the file content
+              file_content=$(cat "README.org")
+              
+              # Escape special characters for HTML
+              file_content=$(echo "$file_content" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&apos;/g')
+              
+              # Add the branch section with file content to index.html
+              cat >> _site/index.html << EOL
+          <div class="branch">
+            <h2>Branch: ${branch}</h2>
+            <pre>${file_content}</pre>
+          </div>
+          EOL
+            else
+              echo "No README.org file found in branch $branch"
+            fi
+          done
+          
+          # Close the HTML
+          echo "</body></html>" >> _site/index.html
+          
+          # Return to original branch
+          git checkout ${GITHUB_REF#refs/heads/}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
