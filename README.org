@@ -1,44 +1,42 @@
-* Adam Rybinski - React Developer
-
-****** [[tel:+35679081417][+35679081417]] · Email: [[mailto:adam@compose.systems][adam@compose.systems]] · Linkedin: [[https://www.linkedin.com/in/arybinski][arybinski]] · Github: [[https://www.github.com/adamrybinski][adamrybinski]][adamrybinski]]
+* Adam Rybinski - Software Engineer
+   [[tel:+35679081417][+35679081417]] · [[mailto:adam@compose.systems][adam@compose.systems]] · LinkedIn: [[https://www.linkedin.com/in/arybinski][arybinski]] · GitHub: [[https://www.github.com/adamrybinski][adamrybinski]]
 
 ** Experience
 
-*April 2023 – Present:* Software Engineer at Betsson Group
-- Developed reusable UI components using Stencil.js and Web Components
-- Utilized NestJS for building scalable backend services and optimizing application performance
-- Architected micro frontends architecture for independent development and deployment
-- Worked with Docker for containerization and deployment
-- Collaborated with remote teams, demonstrating excellent communication and time management skills
-****** React · Stencil.js · Web Components · Docker · Microfrontends · Design Systems
+*April 2023 – Present:* Senior Software Engineer at Betsson Group
+- Architected custom design system using React, TypeScript and Web Components, improving performance by 30%
+- Implemented micro frontends architecture enabling independent development and deployment
+- Built infrastructure as code using Terraform for containerized applications (Docker, Kubernetes)
+- Developed and maintained CI/CD pipelines for automated testing and deployment
+- Mentored junior developers and established best practices for frontend development
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Built scalable APIs using NestJS and TypeScript
-- Worked with PostgreSQL for database management and optimization
-- Implemented automated tests and CI/CD pipelines for efficient development workflow
-- Utilized Docker and Kubernetes for containerization and deployment of microservices
-- Led a team of developers, mentoring and providing technical guidance
-****** React · NestJS · TypeScript · PostgreSQL · Docker · Kubernetes · CI/CD
+- Developed React/TypeScript/Next.js applications for high-frequency trading platforms
+- Built scalable APIs with WebSockets for real-time data, ensuring security and performance
+- Worked with Contentful and other headless CMS systems to manage content across platforms
+- Implemented comprehensive monitoring and observability solutions for production applications
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed Angular applications for enterprise clients
-- Transitioned from backend development with Node.js and PostgreSQL to Kubernetes and then to React
-- Utilized Kubernetes for deploying and managing containerized applications
-- Integrated AI services and cognitive capabilities into web applications
-- Worked on Carbon Design System, providing a datatable component used organization-wide
-****** React · Angular · Kubernetes · Node.js · PostgreSQL · AI Integration · Microservices · Design Systems
+- Developed enterprise applications for multiple business clients across diverse industries
+- Created reusable UI components and contributed to IBM's design system used organization-wide
+- Deployed applications on cloud platforms using Kubernetes for scalability and reliability
+- Collaborated with international teams across multiple business domains and industries
+- Gained extensive experience with Agile methodologies in large-scale enterprise environments
 
 ** Key Skills
-****** React · Stencil.js · Angular · Web Components · Design Systems · Node.js · NestJS · TypeScript · PostgreSQL · Docker · Kubernetes · CI/CD Pipelines · Remote Team Collaboration
+- Frontend: React, TypeScript, Next.js, Web Components, Micro Frontends, Design Systems
+- Cloud & DevOps: Kubernetes, Docker, Terraform, CI/CD (transferable skills to Azure DevOps)
+- Development: API Design, Microservices, WebSockets, Automated Testing, Performance Optimization
+- Soft Skills: Team Leadership, Mentoring, Cross-functional Collaboration, Client Communication
 
 ** Education
-
 ***** 2017-2019: Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-****** Thesis: Explainable AI and Neural Network Architectures for Image Recognition 
+   - Thesis: Explainable AI and Neural Network Architectures
+   - Focused on statistical methods and mathematics in graph theory and data analysis
 
 ***** 2011-2015: B.Sc. in Neuroscience, Jagiellonian University, Cracow
-****** BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
+   - BSc Project: Analyzing Brain Network Architectures using Graph Theory
+   - Focused on small-world network analysis and the application of graph theory to study brain connectivity patterns
 
-** Projects and Contributions
-- **Design Systems:** Contributed to three design systems, including the Carbon Design System, where I provided a datatable component used across the organization.
-- **Microfrontends:** Architected and implemented micro frontend solutions to facilitate independent development and deployment.
+** Languages
+****** English - Professional (C1) · Polish - Native
