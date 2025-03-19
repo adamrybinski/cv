@@ -6,30 +6,32 @@
 
 *April 2023 – Present:* Software Engineer at Betsson Group
 - Architected and developed AI chat application for client support using OpenAI
-- Expanded AI-based knowledge base using recent approaches such as GraphRAG and Neo4j
-- Implemented micro frontends architecture to enable independent development and deployment
-- Collaborated with cross-functional teams to lead development of new features
-- Led efforts in cloud infrastructure management and CI/CD deployment
-****** OpenAI · Generative AI · Micro Frontends · Design System Implementation · Github Actions · AWS Cloud · CI/CD · GraphRAG · Neo4j
+- Expanded AI-based knowledge base implementing GraphRAG architecture with Neo4j
+- Developed and fine-tuned LLMs for targeted improvements in customer support scenarios
+- Led cross-functional teams in implementing generative AI solutions
+- Designed and deployed cloud-based ML engineering solutions on AWS
+- Established CI/CD pipelines using GitHub Actions for ML model deployment
+****** OpenAI · LangChain · GraphRAG · Neo4j · AWS Cloud · CI/CD · Micro Frontends · GitHub Actions
 
 *Oct 2021 – April 2023:* Senior Software Engineer at Deriv Europe 
-- Led API development and design, ensuring security, reliability, and performance
-- Created an AI-trained knowledge base for internal use
-- Collaborated with product and UX to design and implement efficient, extensible solutions
-- Developed automated tests for API endpoints and implemented CI/CD pipelines
-- Gained experience in generative AI tools and models
-****** AWS Cloud · WebSockets · API Development and Testing · Continuous Integration/Continuous Deployment (CI/CD) · Generative AI
+- Led API development (REST, GraphQL) following OpenAPI specifications
+- Created and implemented AI-trained knowledge base for internal use
+- Experimented with emerging GenAI technologies to develop prototypes
+- Integrated generative AI tools into existing systems
+- Developed automated testing frameworks for AI components
+- Built and managed CI/CD pipelines for ML model deployment
+****** AWS Cloud · WebSockets · API Development · CI/CD · Generative AI · TypeScript · Python
 
 *Jan 2017 – 2021:* Software Engineer at IBM
-- Developed cognitive business applications using Python, SQL, NodeJS, PostgreSQL, Kubernetes, and IBM Watson cloud AI services
-- Created a cognitive application to extract text from speech and generate automatic chapters for business videos using Python and IBM Watson AI
-- Designed and supported reusable UI components in React used across multiple products
-- Deployed hybrid cloud applications and mentored junior engineers
-- Implemented AI solutions for business intelligence and business workflows
-****** Python · SQL · IBM's Watson AI · Kubernetes · React · IBM Cloud · Google Cloud · AI Integration · Reusable Component Design
+- Developed cognitive business applications using Python, NodeJS, and IBM Watson AI
+- Implemented ML solutions for text extraction from speech using Python
+- Designed React components for AI-powered interfaces
+- Deployed hybrid cloud applications on IBM Cloud and Google Cloud
+- Mentored junior engineers on ML and AI integration best practices
+****** Python · IBM Watson AI · Kubernetes · React · Node.js · IBM Cloud · Google Cloud
 
 ** Key Skills
-****** Python · SQL · LangChain · OpenAI · Anthropic · AI Development · Generative AI Tools (Vertex AI studio, Amazon SageMaker, Ollama) · Cloud Architecture · Microservices · API Design · Automated Testing · CI/CD · Team Leadership · Mentoring · React · Node.js · Kubernetes · Web Scraping
+****** Python · TypeScript · Go · React · Node.js · NextJS · LangChain · OpenAI · Anthropic · Fine-tuning LLMs · Vertex AI · Amazon SageMaker · Ollama · AWS · Azure · GCP · Kubernetes · Microservices · Test-Driven Development · Code Reviews · Version Control · CI/CD · REST · GraphQL · OpenAPI · Swagger · Team Leadership · Mentoring
 
 ** Education
 
