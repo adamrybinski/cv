@@ -12,6 +12,7 @@
 - Designed and deployed cloud-based ML engineering solutions on AWS, incorporating 3D spatial data processing
 - Established CI/CD pipelines using GitHub Actions for ML model deployment
 - Integrated agentic development tools such as CrewAI and Composio for advanced AI workflows
+
 **Key Tools:** OpenAI · LangChain · PyTorch · OpenCV · Computer Vision · 3D Spatial Data · AWS Cloud · CI/CD · GitHub Actions
 
 **Oct 2021 – April 2023:** Senior Software Engineer, Deriv Europe  
@@ -20,6 +21,7 @@
 - Experimented with emerging GenAI technologies, including classic ML algorithms and linear algebra applications
 - Developed automated testing frameworks for AI components
 - Built and managed CI/CD pipelines for ML model deployment
+
 **Key Tools:** AWS Cloud · WebSockets · API Development · Classic ML · Linear Algebra · TypeScript · Python
 
 **Jan 2017 – 2021:** Software Engineer, IBM  
@@ -28,6 +30,7 @@
 - Designed React components for AI-powered interfaces, including those for healthcare professionals
 - Deployed hybrid cloud applications on IBM Cloud and Google Cloud
 - Mentored junior engineers on ML and AI integration best practices, emphasizing scientific paper implementation
+
 **Key Tools:** Python · IBM Watson AI · PyTorch · Kubernetes · React · Node.js · IBM Cloud · Google Cloud
 
 ## Key Skills
