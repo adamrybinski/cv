@@ -1,44 +1,42 @@
 # Adam Rybinski
 
-###### +35679081417 · adam@compose.systems · linkedin.com/in/arybinski · github.com/arybinski
++35679081417 · adam@compose.systems · linkedin.com/in/arybinski · github.com/adamrybinski
 
 ## Experience
 
-**April 2023 – Present:** Software Engineer at Betsson Group
-- Architected and developed AI chat application for client support using OpenAI
-- Expanded AI-based knowledge base implementing GraphRAG architecture with Neo4j
-- Developed and fine-tuned LLMs for targeted improvements in customer support scenarios
-- Led cross-functional teams in implementing generative AI solutions
-- Designed and deployed cloud-based ML engineering solutions on AWS
-- Established CI/CD pipelines using GitHub Actions for ML model deployment
-###### OpenAI · LangChain · GraphRAG · Neo4j · AWS Cloud · CI/CD · Micro Frontends · GitHub Actions
+**April 2023 – Present:** Senior Full Stack Developer, Betsson Group  
+- Built scalable AI SaaS platform using FastAPI, Python, and React/Next.js with TypeScript
+- Developed ERP integrations for third-party services using Python and RESTful APIs
+- Architected and implemented AI chat applications with OpenAI, LangChain, and FastAPI
+- Created backend services for voice AI processing and LLM-powered knowledge retrieval
+- Established CI/CD pipelines for continuous deployment of Python and React applications
+- Optimized API performance for high-throughput data processing in Python
+**Key Tools:** FastAPI · Python · React · Next.js · TypeScript · OpenAI · LangChain · ERP Integrations
 
-**Oct 2021 – April 2023:** Senior Software Engineer at Deriv Europe 
-- Led API development (REST, GraphQL) following OpenAPI specifications
-- Created and implemented AI-trained knowledge base for internal use
-- Experimented with emerging GenAI technologies to develop prototypes
-- Integrated generative AI tools into existing systems
-- Developed automated testing frameworks for AI components
-- Built and managed CI/CD pipelines for ML model deployment
-###### AWS Cloud · WebSockets · API Development · CI/CD · Generative AI · TypeScript · Python
+**Oct 2021 – April 2023:** Full Stack Engineer, Deriv Europe  
+- Led API development using FastAPI and Python for financial data processing
+- Built frontend interfaces with React and TypeScript for data visualization
+- Integrated third-party APIs and services into existing platforms
+- Developed voice AI prototypes for customer service applications
+- Created automated testing frameworks for Python backend services
+**Key Tools:** Python · FastAPI · React · TypeScript · API Integration · Voice AI
 
-**Jan 2017 – 2021:** Software Engineer at IBM
-- Developed cognitive business applications using Python, NodeJS, and IBM Watson AI
-- Implemented ML solutions for text extraction from speech using Python
-- Designed React components for AI-powered interfaces
-- Deployed hybrid cloud applications on IBM Cloud and Google Cloud
-- Mentored junior engineers on ML and AI integration best practices
-###### Python · IBM Watson AI · Kubernetes · React · Node.js · IBM Cloud · Google Cloud
+**Jan 2017 – 2021:** Software Engineer, IBM  
+- Developed full-stack applications using Python, Node.js and React
+- Built RESTful APIs for cognitive business applications using Python
+- Implemented ML solutions for text and voice processing
+- Created React components for AI-powered interfaces
+**Key Tools:** Python · React · Node.js · REST APIs · IBM Watson
 
 ## Key Skills
-###### Python · TypeScript · Go · React · Node.js · NextJS · LangChain · OpenAI · Anthropic · Fine-tuning LLMs · Vertex AI · Amazon SageMaker · Ollama · AWS · Azure · GCP · Kubernetes
+Python · FastAPI · React · Next.js · TypeScript · API Development · ERP Integrations · LLM Integration
+Voice AI · OpenAI · LangChain · CI/CD · Full Stack Development · SaaS Architecture
 
 ## Education
+**2017–2019:** M.S. Cognitive Science, Jagiellonian University  
+*Thesis: Explainable AI and Neural Network Architectures*
 
-**2017-2019:** Master's Studies in Cognitive Science, Jagiellonian University, Cracow
-###### Thesis: Explainable AI and Neural Network Architectures for Image Recognition 
+**2011–2015:** B.Sc. Neuroscience, Jagiellonian University  
+*Project: Brain Networks and Graph Theory*
 
-**2011-2015:** B.Sc. in Neuroscience, Jagiellonian University, Cracow
-###### BSc Project: Analyzing Brain Network Architectures using 3D Web Visualization
-
-###### Languages: English - Professional (C1) · Polish - Native
+**Languages:** English (C1), Polish (Native)
