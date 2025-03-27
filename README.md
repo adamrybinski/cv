@@ -11,6 +11,7 @@
 - Created backend services for voice AI processing and LLM-powered knowledge retrieval
 - Established CI/CD pipelines for continuous deployment of Python and React applications
 - Optimized API performance for high-throughput data processing in Python
+
 **Key Tools:** FastAPI · Python · React · Next.js · TypeScript · OpenAI · LangChain · ERP Integrations
 
 **Oct 2021 – April 2023:** Full Stack Engineer, Deriv Europe  
@@ -19,6 +20,7 @@
 - Integrated third-party APIs and services into existing platforms
 - Developed voice AI prototypes for customer service applications
 - Created automated testing frameworks for Python backend services
+
 **Key Tools:** Python · FastAPI · React · TypeScript · API Integration · Voice AI
 
 **Jan 2017 – 2021:** Software Engineer, IBM  
@@ -26,6 +28,7 @@
 - Built RESTful APIs for cognitive business applications using Python
 - Implemented ML solutions for text and voice processing
 - Created React components for AI-powered interfaces
+
 **Key Tools:** Python · React · Node.js · REST APIs · IBM Watson
 
 ## Key Skills
